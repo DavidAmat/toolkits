@@ -1,1 +1,3 @@
 stats/env_stats
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
